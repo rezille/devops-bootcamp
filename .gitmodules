@@ -1,0 +1,12 @@
+[submodule "devops-jenkins"]
+	path = devops-jenkins
+	url = https://github.com/rezille/devops-jenkins
+	branch = master
+[submodule "devops-docker"]
+	path = devops-docker
+	url = https://github.com/rezille/devops-docker
+	branch = master
+[submodule "devops-python"]
+	path = devops-python
+	url = https://github.com/rezille/devops-python
+	branch = master
